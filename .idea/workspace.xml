@@ -13,17 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64acc03b-c201-4db0-b6bf-a0255036b6e9" name="Default Changelist" comment="project upload">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery3.5.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/test.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case.html" beforeDir="false" afterPath="$PROJECT_DIR$/case.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/case/case_app_xqh.html" beforeDir="false" afterPath="$PROJECT_DIR$/case/case_app_xqh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
-    </list>
+    <list default="true" id="64acc03b-c201-4db0-b6bf-a0255036b6e9" name="Default Changelist" comment="project upload" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +48,7 @@
     <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -82,7 +72,7 @@
       <workItem from="1596337652151" duration="2184000" />
       <workItem from="1596413880100" duration="298000" />
       <workItem from="1596414200151" duration="24243000" />
-      <workItem from="1596445244537" duration="305000" />
+      <workItem from="1596445244537" duration="603000" />
     </task>
     <task id="LOCAL-00001" summary="project upload">
       <created>1596337919827</created>
@@ -98,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596338061661</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="project upload">
+      <created>1596445696299</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596445696299</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,14 +203,15 @@
       <screen x="0" y="30" width="1376" height="744" />
     </state>
     <state width="1333" height="246" key="GridCell.Tab.3.right/0.30.1376.744@0.30.1376.744" timestamp="1596441876614" />
-    <state x="221" y="63" key="SettingsEditor" timestamp="1596418717649">
-      <screen x="0" y="30" width="1376" height="744" />
-    </state>
-    <state x="221" y="63" key="SettingsEditor/0.30.1376.744@0.30.1376.744" timestamp="1596418717649" />
-    <state x="2201" y="135" key="Vcs.Push.Dialog.v2" timestamp="1596445497502">
+    <state x="2141" y="63" key="SettingsEditor" timestamp="1596445865336">
       <screen x="1920" y="30" width="1376" height="744" />
     </state>
-    <state x="2201" y="135" key="Vcs.Push.Dialog.v2/0.30.1376.744/1920.30.1376.744@1920.30.1376.744" timestamp="1596445497502" />
+    <state x="2141" y="63" key="SettingsEditor/0.30.1376.744/1920.30.1376.744@1920.30.1376.744" timestamp="1596445865336" />
+    <state x="221" y="63" key="SettingsEditor/0.30.1376.744@0.30.1376.744" timestamp="1596418717649" />
+    <state x="2201" y="135" key="Vcs.Push.Dialog.v2" timestamp="1596445703450">
+      <screen x="1920" y="30" width="1376" height="744" />
+    </state>
+    <state x="2201" y="135" key="Vcs.Push.Dialog.v2/0.30.1376.744/1920.30.1376.744@1920.30.1376.744" timestamp="1596445703450" />
     <state x="281" y="135" key="Vcs.Push.Dialog.v2/0.30.1376.744@0.30.1376.744" timestamp="1596338066909" />
     <state x="2318" y="136" key="VcsDiffUtil.ChangesDialog" timestamp="1596445575937">
       <screen x="1920" y="30" width="1376" height="744" />
