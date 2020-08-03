@@ -72,7 +72,7 @@
       <workItem from="1596337652151" duration="2184000" />
       <workItem from="1596413880100" duration="298000" />
       <workItem from="1596414200151" duration="24243000" />
-      <workItem from="1596445244537" duration="603000" />
+      <workItem from="1596445244537" duration="1252000" />
     </task>
     <task id="LOCAL-00001" summary="project upload">
       <created>1596337919827</created>
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596445696299</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="project upload">
+      <created>1596445873761</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596445873761</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,10 +215,10 @@
     </state>
     <state x="2141" y="63" key="SettingsEditor/0.30.1376.744/1920.30.1376.744@1920.30.1376.744" timestamp="1596445865336" />
     <state x="221" y="63" key="SettingsEditor/0.30.1376.744@0.30.1376.744" timestamp="1596418717649" />
-    <state x="2201" y="135" key="Vcs.Push.Dialog.v2" timestamp="1596445703450">
+    <state x="2201" y="135" key="Vcs.Push.Dialog.v2" timestamp="1596446519227">
       <screen x="1920" y="30" width="1376" height="744" />
     </state>
-    <state x="2201" y="135" key="Vcs.Push.Dialog.v2/0.30.1376.744/1920.30.1376.744@1920.30.1376.744" timestamp="1596445703450" />
+    <state x="2201" y="135" key="Vcs.Push.Dialog.v2/0.30.1376.744/1920.30.1376.744@1920.30.1376.744" timestamp="1596446519227" />
     <state x="281" y="135" key="Vcs.Push.Dialog.v2/0.30.1376.744@0.30.1376.744" timestamp="1596338066909" />
     <state x="2318" y="136" key="VcsDiffUtil.ChangesDialog" timestamp="1596445575937">
       <screen x="1920" y="30" width="1376" height="744" />
