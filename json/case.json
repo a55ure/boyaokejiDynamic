@@ -1,0 +1,65 @@
+{
+  "case":[{
+
+  "href":"case/case_ar_chuwei.html",
+  "type": "AR",
+  "imgSrc": "pic/case/ar_chufang.jpg",
+  "textCategory": "林内国际厨卫展场馆AR应用展示"
+},{
+  "href":"case/case_ar_zengqiangxianshi.html",
+  "type": "AR",
+  "imgSrc": "pic/case/yangbanfang.jpg",
+  "textCategory": "增强现实：ar动画"
+},{
+  "href":"case/case_ar_yuanchengzhidao.html",
+  "type": "AR",
+  "imgSrc": "pic/case/yuanchengzhidao.png",
+  "textCategory": "混合现实辅助检修发动机"
+},{
+  "href":"case/case_ar_ranshaolu.html",
+  "type": "AR",
+  "imgSrc": "pic/case/ranshaolu.png",
+  "textCategory": "申东燃烧炉AR项目"
+},{
+  "href":"case/case_vr_guiwu.html",
+  "type": "VR",
+  "imgSrc": "pic/case/guiwu.png",
+  "textCategory": "VR制作恐怖片-鬼宅"
+},{
+  "href":"case/case_vr_yangbanfang.html",
+  "type": "VR",
+  "imgSrc": "pic/case/yangbanfang.jpg",
+  "textCategory": "样板房VR全景展示"
+},{
+  "href":"case/case_vr_caifang.html",
+  "type": "VR",
+  "imgSrc": "pic/case/caifang.png",
+  "textCategory": "可360度旋转的VR采访视频"
+},{
+  "href":"case/case_vr_shiguangzhilv.html",
+  "type": "VR",
+  "imgSrc": "pic/case/shiguangzhilv.png",
+  "textCategory": "360VR视频制作：时光旅行"
+},{
+  "href":"case/case_wxapp_jjsx.html",
+  "type": "wxx",
+  "imgSrc": "pic/case/jjsx.jpg",
+  "textCategory": "佳家生鲜"
+},{
+  "href":"case/case_wxapp_wkcx.html",
+  "type": "wxx",
+  "imgSrc": "pic/case/wkcx.jpg",
+  "textCategory": "万可诚选"
+},{
+  "href":"case/case_wxg_xhlyy.html",
+  "type": "wxg",
+  "imgSrc": "pic/case/xhlyy.jpg",
+  "textCategory": "联华医药商城"
+},{
+  "href":"case/case_app_xqh.html",
+  "type": "app",
+  "imgSrc": "pic/case/xqh.jpg",
+  "textCategory": "星球荟"
+}
+]
+}
